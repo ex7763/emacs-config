@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: shell-header
+# key: HEADER
+# --
+#!/bin/sh
+

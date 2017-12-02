@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: org-to-html
+# key: HEADER
+# --
+#+OPTIONS: \n:t toc:nil
+#+DATE: 
+#+KEYWORDS:
+#+BEGIN_abstract
+
+#+END_abstract

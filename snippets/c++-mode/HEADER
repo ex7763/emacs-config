@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: cpp-header
+# key: HEADER
+# --
+#include <iostream>
+using namespace std;
+
+int main(){
+
+    return 0;
+}
