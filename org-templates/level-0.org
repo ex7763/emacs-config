@@ -1,4 +1,4 @@
-#+OPTIONS: toc:nil html-style:t
+#+OPTIONS: toc:2 html-style:t
 #+AUTHOR: Hsu, Po-Chun
 #+EMAIL: 
 

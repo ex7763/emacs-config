@@ -46,7 +46,7 @@
     ("#CC9393" "#DFAF8F" "#F0DFAF" "#7F9F7F" "#BFEBBF" "#93E0E3" "#94BFF3" "#DC8CC3")))
  '(package-selected-packages
    (quote
-    (cnfonts pangu-spacing apropospriate-theme yasnippet htmlize slime-company elpy zenburn-theme undo-tree switch-window smart-mode-line-powerline-theme slime rainbow-delimiters neotree molokai-theme markdown-mode dired+ company color-theme-sanityinc-tomorrow color-theme-sanityinc-solarized color-theme ace-jump-mode)))
+    (smex gnuplot-mode cnfonts pangu-spacing apropospriate-theme yasnippet htmlize slime-company elpy zenburn-theme undo-tree switch-window smart-mode-line-powerline-theme slime rainbow-delimiters neotree molokai-theme markdown-mode dired+ company color-theme-sanityinc-tomorrow color-theme-sanityinc-solarized color-theme ace-jump-mode)))
  '(pdf-view-midnight-colors (quote ("#DCDCCC" . "#383838")))
  '(pos-tip-background-color "#3a3a3a")
  '(pos-tip-foreground-color "#9E9E9E")
